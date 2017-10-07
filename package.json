@@ -1,0 +1,29 @@
+{
+  "name": "ke-ext",
+  "version": "1.0.0",
+  "description": "Ext Utility",
+  "main": "ke-ext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0kimura/ke-ext.git"
+  },
+  "keywords": [
+    "Extjs",
+    "Javascript",
+    "framework"
+  ],
+  "author": "Michihiro Kimura <kimura@kmrweb.net> (http://www.kmrweb.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/m0kimura/ke-ext/issues"
+  },
+  "homepage": "https://github.com/m0kimura/ke-ext#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "jsdom": "^11.3.0",
+    "ke-cms": "^1.2.1"
+  }
+}
