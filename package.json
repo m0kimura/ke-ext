@@ -1,6 +1,6 @@
 {
   "name": "ke-ext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ext Utility",
   "main": "ke-ext.js",
   "scripts": {
